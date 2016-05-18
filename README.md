@@ -12,5 +12,5 @@
 Source code path:  
 `UVa/100 - The 3n + 1 problem/solution.cpp`
 
-Description about your solution path:  
+Description (if necessary) about your solution path:  
 `UVa/100 - The 3n + 1 problem/description.md`
