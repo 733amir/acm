@@ -1,13 +1,20 @@
-|Source|Number|Name|Status|
-|:-----|-----:|:---|:----:|
-|UVa|10911|Forming Quiz Teams|Unsolved|
-|UVa|10360|Rat Attack|Unsolved|
-|UVa|10341|Solve It|Unsolved|
-|UVa|11292|Dragon of Loowater|Unsolved|
-|UVa|11450|Wedding Shopping|Unsolved|
-|UVa|11635|Hotel Booking|Unsolved|
-|UVa|11506|Angry Programmer|Unsolved|
-|UVa|10243|Fire! Fire!! Fire!!!|Unsolved|
-|UVa|10717|Mint|Unsolved|
-|UVa|11512|GATTACA|Unsolved|
-|UVa|10065|Useless Tile Packers|Unsolved|
+|Source|Number|Name|Status|Difficulty|
+|:-----|-----:|:---|:----:|:--------:|
+|UVa|10911|Forming Quiz Teams|Unsolved|Unknown|
+|UVa|10360|Rat Attack|Unsolved|Unknown|
+|UVa|10341|Solve It|Unsolved|Unknown|
+|UVa|11292|Dragon of Loowater|Unsolved|Unknown|
+|UVa|11450|Wedding Shopping|Unsolved|Unknown|
+|UVa|11635|Hotel Booking|Unsolved|Unknown|
+|UVa|11506|Angry Programmer|Unsolved|Unknown|
+|UVa|10243|Fire! Fire!! Fire!!!|Unsolved|Unknown|
+|UVa|10717|Mint|Unsolved|Unknown|
+|UVa|11512|GATTACA|Unsolved|Unknown|
+|UVa|10065|Useless Tile Packers|Unsolved|Unknown|
+|UVa|00272|TEX Quotes|Unsolved|Super Easy|
+|UVa|01124|Celebrity Jeopardy|Unsolved|Super Easy|
+|UVa|10550|Combination Lock|Unsolved|Super Easy|
+|UVa|11044|Searching for Nessy|Unsolved|Super Easy|
+|UVa|11172|Relational Operators|Unsolved|Super Easy|
+|UVa|11364|Parking|Unsolved|Super Easy|
+|UVa|11498|Division of Nlogonia|Unsolved|Super Easy|
