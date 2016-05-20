@@ -20,7 +20,7 @@ Remember if a problem **solved** before
 |UVa|11512|GATTACA|Unsolved|Unknown|
 |UVa|10065|Useless Tile Packers|Unsolved|Unknown|
 |UVa|00272|TEX Quotes|Solved|Super Easy|
-|UVa|01124|Celebrity Jeopardy|Unsolved|Super Easy|
+|UVa|01124|Celebrity Jeopardy|Solved|Super Easy|
 |UVa|10550|Combination Lock|Unsolved|Super Easy|
 |UVa|11044|Searching for Nessy|Unsolved|Super Easy|
 |UVa|11172|Relational Operators|Unsolved|Super Easy|
