@@ -25,4 +25,4 @@ Remember if a problem **solved** before
 |UVa|11044|Searching for Nessy|Solved|Super Easy|
 |UVa|11172|Relational Operators|Solved|Super Easy|
 |UVa|11364|Parking|Solved|Super Easy|
-|UVa|11498|Division of Nlogonia|Unsolved|Super Easy|
+|UVa|11498|Division of Nlogonia|Solved|Super Easy|
