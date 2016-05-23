@@ -23,6 +23,6 @@ Remember if a problem **solved** before
 |UVa|01124|Celebrity Jeopardy|Solved|Super Easy|
 |UVa|10550|Combination Lock|Solved|Super Easy|
 |UVa|11044|Searching for Nessy|Solved|Super Easy|
-|UVa|11172|Relational Operators|Unsolved|Super Easy|
+|UVa|11172|Relational Operators|Solved|Super Easy|
 |UVa|11364|Parking|Unsolved|Super Easy|
 |UVa|11498|Division of Nlogonia|Unsolved|Super Easy|
