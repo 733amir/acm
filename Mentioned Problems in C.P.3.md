@@ -26,3 +26,40 @@ Remember if a problem **solved** before
 |UVa|11172|Relational Operators|Solved|Super Easy|
 |UVa|11364|Parking|Solved|Super Easy|
 |UVa|11498|Division of Nlogonia|Solved|Super Easy|
+|UVa|11547|Automatic Answer|Unsolved|Super Easy|
+|UVa|11727|Cost Cutting|Unsolved|Super Easy|
+|UVa|12250|Language Detection|Unsolved|Super Easy|
+|UVa|12279|Emoogle Balance|Unsolved|Super Easy|
+|UVa|12289|One-Two-Three|Unsolved|Super Easy|
+|UVa|12372|Packing for Holiday|Unsolved|Super Easy|
+|UVa|12403|Save Setu|Unsolved|Super Easy|
+|UVa|12577|Hajj-e-Akbar|Unsolved|Super Easy|
+|UVa|00621|Secret Research|Unsolved|Easy|
+|UVa|10114|Loansome Car Buyer|Unsolved|Easy|
+|UVa|10300|Ecological Premium|Unsolved|Easy|
+|UVa|10963|The Swallowing Ground|Unsolved|Easy|
+|UVa|11332|Summing Digits|Unsolved|Easy|
+|UVa|11559|Event Planning|Unsolved|Easy|
+|UVa|11679|Sub-prime|Unsolved|Easy|
+|UVa|11764|Jumping Mario|Unsolved|Easy|
+|UVa|11799|Horror Dash|Unsolved|Easy|
+|UVa|11942|Lumberjack Sequencing|Unsolved|Easy|
+|UVa|12015|Google is Feeling Lucky|Unsolved|Easy|
+|UVa|12157|Tariff Plan|Unsolved|Easy|
+|UVa|12468|Zapping|Unsolved|Easy|
+|UVa|12503|Robot Instructions|Unsolved|Easy|
+|UVa|12554|A Special ... Song|Unsolved|Easy|
+|UVa|00119|Greedy Gift Givers|Unsolved|Medium|
+|UVa|00573|The Snail|Unsolved|Medium|
+|UVa|00661|Blowing Fuses|Unsolved|Medium|
+|UVa|10141|Request for Proposal|Unsolved|Medium|
+|UVa|10324|Zeros and Ones|Unsolved|Medium|
+|UVa|10424|Love Calculator|Unsolved|Medium|
+|UVa|10919|Prerequisites?|Unsolved|Medium|
+|UVa|11507|Bender B. Rodriguez ...|Unsolved|Medium|
+|UVa|11586|Train Tracks|Unsolved|Medium|
+|UVa|11661|Burger Time?|Unsolved|Medium|
+|UVa|11683|Laser Sculpture|Unsolved|Medium|
+|UVa|11687|Digits|Unsolved|Medium|
+|UVa|11956|Brain \*\*\*\*|Unsolved|Medium|
+|UVa|12478|Hardest Problem ...|Unsolved|Medium|
