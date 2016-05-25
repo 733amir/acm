@@ -27,7 +27,7 @@ Remember if a problem **solved** before
 |UVa|11364|Parking|Solved|Super Easy|
 |UVa|11498|Division of Nlogonia|Solved|Super Easy|
 |UVa|11547|Automatic Answer|Solved|Super Easy|
-|UVa|11727|Cost Cutting|Unsolved|Super Easy|
+|UVa|11727|Cost Cutting|Solved|Super Easy|
 |UVa|12250|Language Detection|Unsolved|Super Easy|
 |UVa|12279|Emoogle Balance|Unsolved|Super Easy|
 |UVa|12289|One-Two-Three|Unsolved|Super Easy|
