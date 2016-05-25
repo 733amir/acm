@@ -29,7 +29,7 @@ Remember if a problem **solved** before
 |UVa|11547|Automatic Answer|Solved|Super Easy|
 |UVa|11727|Cost Cutting|Solved|Super Easy|
 |UVa|12250|Language Detection|Solved|Super Easy|
-|UVa|12279|Emoogle Balance|Unsolved|Super Easy|
+|UVa|12279|Emoogle Balance|Solved|Super Easy|
 |UVa|12289|One-Two-Three|Unsolved|Super Easy|
 |UVa|12372|Packing for Holiday|Unsolved|Super Easy|
 |UVa|12403|Save Setu|Unsolved|Super Easy|
