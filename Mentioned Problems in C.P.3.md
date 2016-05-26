@@ -34,7 +34,7 @@ Remember if a problem **solved** before
 |UVa|12372|Packing for Holiday|Solved|Super Easy|
 |UVa|12403|Save Setu|Solved|Super Easy|
 |UVa|12577|Hajj-e-Akbar|Solved|Super Easy|
-|UVa|00621|Secret Research|Unsolved|Easy|
+|UVa|00621|Secret Research|Solved|Easy|
 |UVa|10114|Loansome Car Buyer|Unsolved|Easy|
 |UVa|10300|Ecological Premium|Unsolved|Easy|
 |UVa|10963|The Swallowing Ground|Unsolved|Easy|
