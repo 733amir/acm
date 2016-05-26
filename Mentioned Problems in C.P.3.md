@@ -31,7 +31,7 @@ Remember if a problem **solved** before
 |UVa|12250|Language Detection|Solved|Super Easy|
 |UVa|12279|Emoogle Balance|Solved|Super Easy|
 |UVa|12289|One-Two-Three|Solved|Super Easy|
-|UVa|12372|Packing for Holiday|Unsolved|Super Easy|
+|UVa|12372|Packing for Holiday|Solved|Super Easy|
 |UVa|12403|Save Setu|Unsolved|Super Easy|
 |UVa|12577|Hajj-e-Akbar|Unsolved|Super Easy|
 |UVa|00621|Secret Research|Unsolved|Easy|
