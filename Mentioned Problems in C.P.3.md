@@ -41,7 +41,7 @@ Remember if a problem **solved** before
 |UVa|11332|Summing Digits|Solved|Easy|
 |UVa|11559|Event Planning|Solved|Easy|
 |UVa|11679|Sub-prime|Solved|Easy|
-|UVa|11764|Jumping Mario|Unsolved|Easy|
+|UVa|11764|Jumping Mario|Solved|Easy|
 |UVa|11799|Horror Dash|Unsolved|Easy|
 |UVa|11942|Lumberjack Sequencing|Unsolved|Easy|
 |UVa|12015|Google is Feeling Lucky|Unsolved|Easy|
