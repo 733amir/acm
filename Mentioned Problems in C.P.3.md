@@ -36,7 +36,7 @@ Remember if a problem **solved** before
 |UVa|12577|Hajj-e-Akbar|Solved|Super Easy|
 |UVa|00621|Secret Research|Solved|Easy|
 |UVa|10114|Loansome Car Buyer|Unsolved|Easy|
-|UVa|10300|Ecological Premium|Unsolved|Easy|
+|UVa|10300|Ecological Premium|Solved|Easy|
 |UVa|10963|The Swallowing Ground|Unsolved|Easy|
 |UVa|11332|Summing Digits|Unsolved|Easy|
 |UVa|11559|Event Planning|Unsolved|Easy|
