@@ -6,7 +6,7 @@ Remember if a problem **solved** before
 4. Try **again** to solve it
 5. If you are **completely disappointed**, read the solution
 
-|Source|Number|Name|Status|Difficulty|
+|Source|Number|Name|Status|Category|
 |:-----|-----:|:---|:----:|:--------:|
 |UVa|10911|Forming Quiz Teams|Unsolved|Unknown|
 |UVa|10360|Rat Attack|Unsolved|Unknown|
@@ -63,3 +63,128 @@ Remember if a problem **solved** before
 |UVa|11687|Digits|Unsolved|Medium|
 |UVa|11956|Brain \*\*\*\*|Unsolved|Medium|
 |UVa|12478|Hardest Problem ...|Unsolved|Medium|
+|UVa|00162|Beggar My Neighbour|Unsolved|Game (Card)|
+|UVa|00462|Bridge Hand Evaluator|Unsolved|Game (Card)|
+|UVa|00555|Bridge Hands|Unsolved|Game (Card)|
+|UVa|10205|Stack ’em Up|Unsolved|Game (Card)|
+|UVa|10315|Poker Hands|Unsolved|Game (Card)|
+|UVa|10646|What is the Card?|Unsolved|Game (Card)|
+|UVa|11225|Tarot scores|Unsolved|Game (Card)|
+|UVa|11678|Card’s Exchange|Unsolved|Game (Card)|
+|UVa|12247|Jollo|Unsolved|Game (Card)|
+|UVa|00255|Correct Move|Unsolved|Game (Chess)|
+|UVa|00278|Chess|Unsolved|Game (Chess)|
+|UVa|00696|How Many Knights|Unsolved|Game (Chess)|
+|UVa|10196|Check The Check|Unsolved|Game (Chess)|
+|UVa|10284|Chessboard in FEN|Unsolved|Game (Chess)|
+|UVa|10849|Move the bishop|Unsolved|Game (Chess)|
+|UVa|11494|Queen|Unsolved|Game (Chess)|
+|UVa|00340|Master-Mind Hints|Unsolved|Easy Game (Other)|
+|UVa|00489|Hangman Judge|Unsolved|Easy Game (Other)|
+|UVa|00947|Master Mind Helper|Unsolved|Easy Game (Other)|
+|UVa|10189|Minesweeper|Unsolved|Easy Game (Other)|
+|UVa|10279|Mine Sweeper|Unsolved|Easy Game (Other)|
+|UVa|10409|Die Game|Unsolved|Easy Game (Other)|
+|UVa|10530|Guessing Game|Unsolved|Easy Game (Other)|
+|UVa|11459|Snakes and Ladders|Unsolved|Easy Game (Other)|
+|UVa|12239|Bingo|Unsolved|Easy Game (Other)|
+|UVa|00114|Simulation Wizardry|Unsolved|Hard Game (other)|
+|UVa|00141|The Spot Game|Unsolved|Hard Game (other)|
+|UVa|00220|Othello|Unsolved|Hard Game (other)|
+|UVa|00227|Puzzle|Unsolved|Hard Game (other)|
+|UVa|00232|Crossword Answers|Unsolved|Hard Game (other)|
+|UVa|00339|SameGame Simulation|Unsolved|Hard Game (other)|
+|UVa|00379|HI-Q|Unsolved|Hard Game (other)|
+|UVa|00584|Bowling|Unsolved|Hard Game (other)|
+|UVa|00647|Chutes and Ladders|Unsolved|Hard Game (other)|
+|UVa|10363|Tic Tac Toe|Unsolved|Hard Game (other)|
+|UVa|10443|Rock, Scissors, Paper|Unsolved|Hard Game (other)|
+|UVa|10813|Traditional BINGO|Unsolved|Hard Game (other)|
+|UVa|10903|Rock-Paper-Scissors ...|Unsolved|Hard Game (other)|
+|UVa|00353|Pesky Palindromes|Unsolved|Palindrome|
+|UVa|00401|Palindromes|Unsolved|Palindrome|
+|UVa|10018|Reverse and Add|Unsolved|Palindrome|
+|UVa|10945|Mother Bear|Unsolved|Palindrome|
+|UVa|11221|Magic Square Palindrome|Unsolved|Palindrome|
+|UVa|11309|Counting Chaos|Unsolved|Palindrome|
+|UVa|00148|Anagram Checker|Unsolved|Anagram|
+|UVa|00156|Ananagram|Unsolved|Anagram|
+|UVa|00195|Anagram|Unsolved|Anagram|
+|UVa|00454|Anagrams|Unsolved|Anagram|
+|UVa|00630|Anagrams (II)|Unsolved|Anagram|
+|UVa|00642|Word Amalgamation|Unsolved|Anagram|
+|UVa|10098|Generating Fast, Sorted ...|Unsolved|Anagram|
+|UVa|00161|Traffic Lights|Unsolved|Easy Real Life|
+|UVa|00187|Transaction Processing|Unsolved|Easy Real Life|
+|UVa|00362|18,000 Seconds Remaining|Unsolved|Easy Real Life|
+|UVa|00637|Booklet Printing|Unsolved|Easy Real Life|
+|UVa|00857|Quantiser|Unsolved|Easy Real Life|
+|UVa|10082|WERTYU|Unsolved|Easy Real Life|
+|UVa|10191|Longest Nap|Unsolved|Easy Real Life|
+|UVa|10528|Major Scales|Unsolved|Easy Real Life|
+|UVa|10554|Calories from Fat|Unsolved|Easy Real Life|
+|UVa|10812|Beat the Spread|Unsolved|Easy Real Life|
+|UVa|11530|SMS Typing|Unsolved|Easy Real Life|
+|UVa|11945|Financial Management|Unsolved|Easy Real Life|
+|UVa|11984|A Change in Thermal Unit|Unsolved|Easy Real Life|
+|UVa|12195|Jingle Composing|Unsolved|Easy Real Life|
+|UVa|12555|Baby Me|Unsolved|Easy Real Life|
+|UVa|00139|Telephone Tangles|Unsolved|Hard Real Life|
+|UVa|00145|Gondwanaland Telecom|Unsolved|Hard Real Life|
+|UVa|00333|Recognizing Good ISBNs|Unsolved|Hard Real Life|
+|UVa|00346|Getting Chorded|Unsolved|Hard Real Life|
+|UVa|00403|Postscript|Unsolved|Hard Real Life|
+|UVa|00447|Population Explosion|Unsolved|Hard Real Life|
+|UVa|00448|OOPS|Unsolved|Hard Real Life|
+|UVa|00449|Majoring in Scales|Unsolved|Hard Real Life|
+|UVa|00457|Linear Cellular Automata|Unsolved|Hard Real Life|
+|UVa|00538|Balancing Bank Accounts|Unsolved|Hard Real Life|
+|UVa|00608|Counterfeit Dollar|Unsolved|Hard Real Life|
+|UVa|00706|LC-Display|Unsolved|Hard Real Life|
+|UVa|01061|Consanguine Calculations|Unsolved|Hard Real Life|
+|UVa|10415|Eb Alto Saxophone Player|Unsolved|Hard Real Life|
+|UVa|10659|Fitting Text into Slides|Unsolved|Hard Real Life|
+|UVa|11223|O: dah, dah, dah|Unsolved|Hard Real Life|
+|UVa|11743|Credit Check|Unsolved|Hard Real Life|
+|UVa|12342|Tax Calculator|Unsolved|Hard Real Life|
+|UVa|00170|Clock Patience|Unsolved|Time|
+|UVa|00300|Maya Calendar|Unsolved|Time|
+|UVa|00579|Clock Hands|Unsolved|Time|
+|UVa|00893|Y3K|Unsolved|Time|
+|UVa|10070|Leap Year or Not Leap ...|Unsolved|Time|
+|UVa|10339|Watching Watches|Unsolved|Time|
+|UVa|10371|Time Zones|Unsolved|Time|
+|UVa|10683|The decadary watch |Unsolved|Time|
+|UVa|11219|How old are you?|Unsolved|Time|
+|UVa|11356|Dates|Unsolved|Time|
+|UVa|11650|Mirror Clock|Unsolved|Time|
+|UVa|11677|Alarm Clock|Unsolved|Time|
+|UVa|11947|Cancer or Scorpio|Unsolved|Time|
+|UVa|11958|Coming Home|Unsolved|Time|
+|UVa|12019|Doom’s Day Algorithm|Unsolved|Time|
+|UVa|12136|Schedule of a Married Man|Unsolved|Time|
+|UVa|12148|Electricity|Unsolved|Time|
+|UVa|12439|February 29|Unsolved|Time|
+|UVa|12531|Hours and Minutes|Unsolved|Time|
+|UVa|00144|Student Grants|Unsolved|Time Waster|
+|UVa|00214|Code Generation|Unsolved|Time Waster|
+|UVa|00335|Processing MX Records|Unsolved|Time Waster|
+|UVa|00337|Interpreting Control ...|Unsolved|Time Waster|
+|UVa|00349|Transferable Voting (II)|Unsolved|Time Waster|
+|UVa|00381|Making the Grade|Unsolved|Time Waster|
+|UVa|00405|Message Routing|Unsolved|Time Waster|
+|UVa|00556|Amazing|Unsolved|Time Waster|
+|UVa|00603|Parking Lot|Unsolved|Time Waster|
+|UVa|00830|Shark|Unsolved|Time Waster|
+|UVa|00945|Loading a Cargo Ship|Unsolved|Time Waster|
+|UVa|10033|Interpreter|Unsolved|Time Waster|
+|UVa|10134|AutoFish|Unsolved|Time Waster|
+|UVa|10142|Australian Voting|Unsolved|Time Waster|
+|UVa|10188|Automated Judge Script|Unsolved|Time Waster|
+|UVa|10267|Graphical Editor|Unsolved|Time Waster|
+|UVa|10961|Chasing After Don Giovanni|Unsolved|Time Waster|
+|UVa|11140|Little Ali’s Little Brother|Unsolved|Time Waster|
+|UVa|11717|Energy Saving Micro ...|Unsolved|Time Waster|
+|UVa|12060|All Integer Average|Unsolved|Time Waster|
+|UVa|12085|Mobile Casanova|Unsolved|Time Waster|
+|UVa|12608|Garbage Collection|Unsolved|Time Waster|
