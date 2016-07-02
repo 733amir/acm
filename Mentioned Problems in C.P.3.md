@@ -188,3 +188,47 @@ Remember if a problem **solved** before
 |UVa|12060|All Integer Average|Unsolved|Time Waster|
 |UVa|12085|Mobile Casanova|Unsolved|Time Waster|
 |UVa|12608|Garbage Collection|Unsolved|Time Waster|
+|UVa|00230|Borrowers|Unsolved|1D Array Manipulation|
+|UVa|00394|Mapmaker|Unsolved|1D Array Manipulation|
+|UVa|00414|Machined Surfaces|Unsolved|1D Array Manipulation|
+|UVa|00467|Synching Signals|Unsolved|1D Array Manipulation|
+|UVa|00482|Permutation Arrays|Unsolved|1D Array Manipulation|
+|UVa|00591|Box of Bricks|Unsolved|1D Array Manipulation|
+|UVa|00665|False Coin|Unsolved|1D Array Manipulation|
+|UVa|00755|487-3279|Unsolved|1D Array Manipulation|
+|UVa|10038|Jolly Jumpers|Unsolved|1D Array Manipulation|
+|UVa|10260|Soundex|Unsolved|1D Array Manipulation|
+|UVa|10978|Let’s Play Magic|Unsolved|1D Array Manipulation|
+|UVa|11093|Just Finish it up|Unsolved|1D Array Manipulation|
+|UVa|11192|Group Reverse|Unsolved|1D Array Manipulation|
+|UVa|11222|Only I did it|Unsolved|1D Array Manipulation|
+|UVa|11340|Newspaper|Unsolved|1D Array Manipulation|
+|UVa|11496|Musical Loop|Unsolved|1D Array Manipulation|
+|UVa|11608|No Problem|Unsolved|1D Array Manipulation|
+|UVa|11850|Alaska|Unsolved|1D Array Manipulation|
+|UVa|12150|Pole Position|Unsolved|1D Array Manipulation|
+|UVa|12356|Army Buddies|Unsolved|1D Array Manipulation|
+|UVa|00101|The Blocks Problem|Unsolved|2D Array Manipulation|
+|UVa|00434|Matty’s Blocks|Unsolved|2D Array Manipulation|
+|UVa|00466|Mirror Mirror|Unsolved|2D Array Manipulation|
+|UVa|00541|Error Correction|Unsolved|2D Array Manipulation|
+|UVa|10016|Flip-flop the Squarelotron|Unsolved|2D Array Manipulation|
+|UVa|10703|Free spots|Unsolved|2D Array Manipulation|
+|UVa|10855|Rotated squares|Unsolved|2D Array Manipulation|
+|UVa|10920|Spiral Tap|Unsolved|2D Array Manipulation|
+|UVa|11040|Add bricks in the wall|Unsolved|2D Array Manipulation|
+|UVa|11349|Symmetric Matrix|Unsolved|2D Array Manipulation|
+|UVa|11360|Have Fun with Matrices|Unsolved|2D Array Manipulation|
+|UVa|11581|Grid Successors|Unsolved|2D Array Manipulation|
+|UVa|11835|Formula 1|Unsolved|2D Array Manipulation|
+|UVa|12187|Brothers|Unsolved|2D Array Manipulation|
+|UVa|12291|Polyomino Composer|Unsolved|2D Array Manipulation|
+|UVa|12398|NumPuzz I|Unsolved|2D Array Manipulation|
+|UVa|00123|Searching Quickly|Unsolved|C++ STL algorithm|
+|UVa|00146|ID Codes|Unsolved|C++ STL algorithm|
+|UVa|00400|Unix ls|Unsolved|C++ STL algorithm|
+|UVa|00450|Little Black Book|Unsolved|C++ STL algorithm|
+|UVa|00790|Head Judge Headache|Unsolved|C++ STL algorithm|
+|UVa|00855|Lunch in Grid City|Unsolved|C++ STL algorithm|
+|UVa|01209|Wordfish (LA 3173, Manila06)|Unsolved|C++ STL algorithm|
+|UVa|10057|A mid-summer night ...|Unsolved|C++ STL algorithm|
