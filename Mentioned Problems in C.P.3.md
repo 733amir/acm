@@ -232,3 +232,36 @@ Remember if a problem **solved** before
 |UVa|00855|Lunch in Grid City|Unsolved|C++ STL algorithm|
 |UVa|01209|Wordfish (LA 3173, Manila06)|Unsolved|C++ STL algorithm|
 |UVa|10057|A mid-summer night ...|Unsolved|C++ STL algorithm|
+|UVa|10107|What is the Median?|Unsolved|C++ STL algorithm|
+|UVa|10194|Football a.k.a. Soccer|Unsolved|C++ STL algorithm|
+|UVa|10258|Contest Scoreboard|Unsolved|C++ STL algorithm|
+|UVa|10698|Football Sort|Unsolved|C++ STL algorithm|
+|UVa|10880|Colin and Ryan|Unsolved|C++ STL algorithm|
+|UVa|10905|Children’s Game|Unsolved|C++ STL algorithm|
+|UVa|11039|Building Designing|Unsolved|C++ STL algorithm|
+|UVa|11321|Sort Sort and Sort|Unsolved|C++ STL algorithm|
+|UVa|11588|Image Coding|Unsolved|C++ STL algorithm|
+|UVa|11777|Automate the Grades|Unsolved|C++ STL algorithm|
+|UVa|11824|A Minimum Land Price|Unsolved|C++ STL algorithm|
+|UVa|12541|Birthdates|Unsolved|C++ STL algorithm|
+|UVa|00594|One Little, Two Little ...|Unsolved|Bit Manipulation|
+|UVa|00700|Date Bugs|Unsolved|Bit Manipulation|
+|UVa|01241|Jollybee Tournament|Unsolved|Bit Manipulation|
+|UVa|10264|The Most Potent Corner|Unsolved|Bit Manipulation|
+|UVa|11173|Grey Codes|Unsolved|Bit Manipulation|
+|UVa|11760|Brother Arif, ...|Unsolved|Bit Manipulation|
+|UVa|11926|Multitasking|Unsolved|Bit Manipulation|
+|UVa|11933|Splitting Numbers|Unsolved|Bit Manipulation|
+|UVa|11988|Broken Keyboard ...|Unsolved|C++ STL List|
+|UVa|00127|“Accordian” Patience|Unsolved|Stack|
+|UVa|00514|Rails|Unsolved|Stack|
+|UVa|00732|Anagram by Stack|Unsolved|Stack|
+|UVa|01062|Containers|Unsolved|Stack|
+|UVa|10858|Unique Factorization|Unsolved|Stack|
+|UVa|00540|Team Queue|Unsolved|Queue & Deque|
+|UVa|10172|The Lonesome Cargo ...|Unsolved|Queue & Deque|
+|UVa|10901|Ferry Loading III|Unsolved|Queue & Deque|
+|UVa|10935|Throwing cards away I|Unsolved|Queue & Deque|
+|UVa|11034|Ferry Loading IV|Unsolved|Queue & Deque|
+|UVa|12100|Printer Queue|Unsolved|Queue & Deque|
+|UVa|12207|This is Your Queue|Unsolved|Queue & Deque|
