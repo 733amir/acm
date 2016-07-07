@@ -50,7 +50,7 @@ Remember if a problem **solved** before
 |UVa|12503|Robot Instructions|Unsolved|Easy|
 |UVa|12554|A Special ... Song|Unsolved|Easy|
 |UVa|00119|Greedy Gift Givers|Unsolved|Medium|
-|UVa|00573|**The Snail**|Unsolved|Medium|
+|UVa|00573|**The Snail**|Solved|Medium|
 |UVa|00661|Blowing Fuses|Unsolved|Medium|
 |UVa|10141|**Request for Proposal**|Unsolved|Medium|
 |UVa|10324|Zeros and Ones|Unsolved|Medium|
