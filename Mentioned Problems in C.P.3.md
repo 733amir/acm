@@ -52,7 +52,7 @@ Remember if a problem **solved** before
 |UVa|00119|Greedy Gift Givers|Unsolved|Medium|
 |UVa|00573|**The Snail**|Solved|Medium|
 |UVa|00661|Blowing Fuses|Unsolved|Medium|
-|UVa|10141|**Request for Proposal**|Unsolved|Medium|
+|UVa|10141|**Request for Proposal**|Presentation error|Medium|
 |UVa|10324|Zeros and Ones|Unsolved|Medium|
 |UVa|10424|Love Calculator|Unsolved|Medium|
 |UVa|10919|Prerequisites?|Unsolved|Medium|
