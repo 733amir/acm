@@ -56,7 +56,7 @@ Remember if a problem **solved** before
 |UVa|10324|Zeros and Ones|Unsolved|Medium|
 |UVa|10424|Love Calculator|Unsolved|Medium|
 |UVa|10919|Prerequisites?|Unsolved|Medium|
-|UVa|11507|**Bender B. Rodriguez ...**|Unsolved|Medium|
+|UVa|11507|**Bender B. Rodriguez ...**|Solved|Medium|
 |UVa|11586|Train Tracks|Unsolved|Medium|
 |UVa|11661|Burger Time?|Unsolved|Medium|
 |UVa|11683|Laser Sculpture|Unsolved|Medium|
