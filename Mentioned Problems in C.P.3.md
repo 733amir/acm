@@ -196,7 +196,7 @@ Remember if a problem **solved** before
 |UVa|00591|Box of Bricks|Unsolved|1D Array Manipulation|
 |UVa|00665|False Coin|Unsolved|1D Array Manipulation|
 |UVa|00755|487-3279|Unsolved|1D Array Manipulation|
-|UVa|10038|**Jolly Jumpers**|Unsolved|1D Array Manipulation|
+|UVa|10038|**Jolly Jumpers**|Solved|1D Array Manipulation|
 |UVa|10260|Soundex|Unsolved|1D Array Manipulation|
 |UVa|10978|Let’s Play Magic|Unsolved|1D Array Manipulation|
 |UVa|11093|Just Finish it up|Unsolved|1D Array Manipulation|
