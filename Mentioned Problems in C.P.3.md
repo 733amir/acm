@@ -202,7 +202,7 @@ Remember if a problem **solved** before
 |UVa|11093|Just Finish it up|Unsolved|1D Array Manipulation|
 |UVa|11192|Group Reverse|Unsolved|1D Array Manipulation|
 |UVa|11222|Only I did it|Unsolved|1D Array Manipulation|
-|UVa|11340|**Newspaper**|Unsolved|1D Array Manipulation|
+|UVa|11340|**Newspaper**|Solved|1D Array Manipulation|
 |UVa|11496|Musical Loop|Unsolved|1D Array Manipulation|
 |UVa|11608|No Problem|Unsolved|1D Array Manipulation|
 |UVa|11850|Alaska|Unsolved|1D Array Manipulation|
