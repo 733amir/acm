@@ -207,7 +207,7 @@ Remember if a problem **solved** before
 |UVa|11608|No Problem|Unsolved|1D Array Manipulation|
 |UVa|11850|Alaska|Unsolved|1D Array Manipulation|
 |UVa|12150|Pole Position|Unsolved|1D Array Manipulation|
-|UVa|12356|**Army Buddies**|Unsolved|1D Array Manipulation|
+|UVa|12356|**Army Buddies**|Time Limit Exceeded|1D Array Manipulation|
 |UVa|00101|The Blocks Problem|Unsolved|2D Array Manipulation|
 |UVa|00434|Matty’s Blocks|Unsolved|2D Array Manipulation|
 |UVa|00466|Mirror Mirror|Unsolved|2D Array Manipulation|
