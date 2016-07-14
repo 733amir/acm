@@ -6,6 +6,8 @@ Remember if a problem **solved** before
 4. Try **again** to solve it
 5. If you are **completely disappointed**, read the solution
 
+Some problems may not mentioned here, but they are solved. Look at sources.
+
 |Source|Number|Name|Status|Category|
 |:-----|-----:|:---|:----:|:--------:|
 |UVa|10911|Forming Quiz Teams|Unsolved|Unknown|
