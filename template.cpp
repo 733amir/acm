@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
+#include <math.h>
 using namespace std;
 
 template <typename T> void l(T message, char end='\n') { if (!LOG) return; cout << message << end; }
