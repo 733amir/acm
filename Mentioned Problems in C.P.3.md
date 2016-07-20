@@ -264,13 +264,13 @@ Some problems may not mentioned here, but they are solved. Look at sources.
 |UVa|10172|**The Lonesome Cargo ...**|Unsolved|Queue & Deque|
 |UVa|10901|**Ferry Loading III**|Unsolved|Queue & Deque|
 |UVa|10935|Throwing cards away I|Unsolved|Queue & Deque|
-|UVa|11034|**Ferry Loading IV**|Unsolved|Queue & Deque|
+|UVa|11034|**Ferry Loading IV**|Solved|Queue & Deque|
 |UVa|12100|Printer Queue|Unsolved|Queue & Deque|
 |UVa|12207|This is Your Queue|Unsolved|Queue & Deque|
 |UVa|00102|Ecological Bin Packing|Unsolved|Iterative (One Loop, Linear Scan)|
 |UVa|00256|Quirksome Squares|Unsolved|Iterative (One Loop, Linear Scan)|
 |UVa|00927|**Integer Sequence from ...**|Solved|Iterative (One Loop, Linear Scan)|
-|UVa|01237|**Expert Enough**|Unsolved|Iterative (One Loop, Linear Scan)|
-|UVa|10976|**Fractions Again ?**|Unsolved|Iterative (One Loop, Linear Scan)|
+|UVa|01237|**Expert Enough**|Solved|Iterative (One Loop, Linear Scan)|
+|UVa|10976|**Fractions Again ?**|Solved|Iterative (One Loop, Linear Scan)|
 |UVa|11001|Necklace|Unsolved|Iterative (One Loop, Linear Scan)|
 |UVa|11078|Open Credit System|Unsolved|Iterative (One Loop, Linear Scan)|
