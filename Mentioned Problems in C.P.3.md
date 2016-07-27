@@ -274,3 +274,15 @@ Some problems may not mentioned here, but they are solved. Look at sources.
 |UVa|10976|**Fractions Again ?**|Solved|Iterative (One Loop, Linear Scan)|
 |UVa|11001|Necklace|Unsolved|Iterative (One Loop, Linear Scan)|
 |UVa|11078|Open Credit System|Unsolved|Iterative (One Loop, Linear Scan)|
+|UVa|00105|The Skyline Problem|Unsolved|Iterative (Two Nested Loops)|
+|UVa|00347|Run, Run, Runaround ...|Unsolved|Iterative (Two Nested Loops)|
+|UVa|00471|Magic Numbers|Unsolved|Iterative (Two Nested Loops)|
+|UVa|00617|Nonstop Travel|Unsolved|Iterative (Two Nested Loops)|
+|UVa|00725|Division|Unsolved|Iterative (Two Nested Loops)|
+|UVa|01260|**Sales**|Solved|Iterative (Two Nested Loops)|
+|UVa|10041|Vito’s Family|Unsolved|Iterative (Two Nested Loops)|
+|UVa|10487|**Closest Sums**|Unsolved|Iterative (Two Nested Loops)|
+|UVa|10730|Antiarithmetic?|Unsolved|Iterative (Two Nested Loops)|
+|UVa|11242|**Tour de France**|Unsolved|Iterative (Two Nested Loops)|
+|UVa|12488|Start Grid|Unsolved|Iterative (Two Nested Loops)|
+|UVa|12583|Memory Overflow|Unsolved|Iterative (Two Nested Loops)|
