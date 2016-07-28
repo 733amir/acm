@@ -283,6 +283,37 @@ Some problems may not mentioned here, but they are solved. Look at sources.
 |UVa|10041|Vito’s Family|Unsolved|Iterative (Two Nested Loops)|
 |UVa|10487|**Closest Sums**|Solved|Iterative (Two Nested Loops)|
 |UVa|10730|Antiarithmetic?|Unsolved|Iterative (Two Nested Loops)|
-|UVa|11242|**Tour de France**|Unsolved|Iterative (Two Nested Loops)|
+|UVa|11242|**Tour de France**|Solved|Iterative (Two Nested Loops)|
 |UVa|12488|Start Grid|Unsolved|Iterative (Two Nested Loops)|
 |UVa|12583|Memory Overflow|Unsolved|Iterative (Two Nested Loops)|
+|UVa|00154|Recycling|Unsolved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|00188|Perfect Hash|Unsolved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|00441|**Lotto**|Solved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|00626|Ecosystem|Unsolved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|00703|Triple Ties: The ...|Unsolved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|00735|**Dart-a-Mania**|Solved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|10102|**The path in the colored field**|Solved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|10502|Counting Rectangles|Unsolved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|10662|The Wedding|Unsolved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|10908|Largest Square|Unsolved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|11059|Maximum Product|Unsolved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|11975|Tele-loto|Unsolved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|12498|Ant’s Shopping Mall|Unsolved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|12515|Movie Police|Unsolved|Iterative (Three Or More Nested Loops, Easier)|
+|UVa|00253|Cube painting|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|00296|Safebreaker|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|00386|Perfect Cubes|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|10125|Sumsets|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|10177|(2/3/4)-D Sqr/Rects/...|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|10360|Rat Attack|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|10365|Blocks|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|10483|The Sum Equals ...|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|10660|**Citizen attention ...**|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|10973|Triangle Counting|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|11108|Tautology|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|11236|**Grocery Store**|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|11342|Three-square|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|11548|Blackboard Bonanza|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|11565|**Simple Equations**|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|11804|Argentina|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
+|UVa|11959|Dice|Unsolved|Iterative (Three-or-More Nested Loops, Harder)|
