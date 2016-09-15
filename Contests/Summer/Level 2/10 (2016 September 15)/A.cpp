@@ -15,6 +15,21 @@
 using namespace std;
 
 // Put your variables here
+int tc, occ, boundry;
+string x, z;
+
+void counter(int xi, int zi) {
+    if (zi == z.length()) {
+        occ++;
+        return;
+    }
+
+    boundry = x.length() - (z.length() - zi - 1);
+
+    while (xi < boundry)
+        if (x[xi++] == z[zi])
+            counter(xi, zi + 1);
+}
 
 int main() {
     // Redirection, comment them for submiting
@@ -26,6 +41,13 @@ int main() {
     ios_base::sync_with_stdio(false);
 
     // Put your code here
+    cin >> tc;
 
+    while (tc--) {
+        cin >> x >> z;
+        occ = 0;
+        counter(0, 0);
+        cout << occ << endl;
+    }
     return 0;
 }
